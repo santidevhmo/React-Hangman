@@ -22,4 +22,4 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-![React Hangman Demo GIF](path to your gif)
+![React Hangman Demo GIF](./demoHangman.gif)
