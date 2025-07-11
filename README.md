@@ -23,3 +23,7 @@ A brief description of what this project does and who it's for
 ## Demo
 
 ![React Hangman Demo GIF](./demoHangman.gif)
+
+## To-do's
+- [ ]  Better spacing and component sizing for mobile
+- [ ]  Update Favicon and Site title
